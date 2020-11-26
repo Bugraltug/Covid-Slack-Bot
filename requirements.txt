@@ -1,3 +1,5 @@
 slackclient==2.9.3
 flask
 slackeventsapi
+gunicorn
+requests[security]
